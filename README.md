@@ -1,0 +1,2 @@
+# Python-BlackJack
+Practica sencilla
